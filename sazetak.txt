@@ -1,0 +1,20 @@
+﻿<p><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">&nbsp;</span></p>
+<p><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 18.0pt; line-height: 107%; font-family: 'Times New Roman',serif;"><b>Sažetak</b></span></p>
+<p><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">&nbsp;</span></p>
+<ul>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Digitalni mediji su svi mediji koji svoj medijski sadržaj objavljuju ili nude putem interneta na Webu ili putem digitalnih mreža i uređaja</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Imaju obilježja poput interaktivnosti, stvaranja i pristupa u realnom vremenu, globalne dostupnosti, lakoće objavljivanja sadržaja, niskih tro&scaron;kova stvaranja i sl.</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Najče&scaron;će se financijski održavaju putem nekog oblika ogla&scaron;avanja</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Interakcija licem u lice smatra se "sinkroniziranim" oblikom komunikacije</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">''Sinkronizirano'' pona&scaron;anje je nemoguće na mreži</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Promatranje drugih u određenom emocionalnom stanju automatski pokreće povezanost s emocionalnim stanjem promatrane osobe</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Dru&scaron;tveni mediji olak&scaron;avaju virtualni oblik interakcije</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">U usporedbi s interakcijama s računalima, interakcije s ljudskim kolegama zahtijevaju veću emocionalnu angažiranost, kognitivni napor i aktivaciju mozga</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Kontroverzne događaje odgovorni novinari i urednici obrađuju u skladu s raznim pravilima</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Posebne karakteristike interneta: anonimnost, kontrola fizičke izloženosti, visok stupanj kontrole nad interakcijom, jednostavnost s kojom mogu pronaći sebi slične pojedince, pristup, zabava</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Tehnologija ima veći utjecaj na djecu nego odrasle</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Postoji niz zakona čije odredbe &scaron;tite djecu od ogla&scaron;avanja</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Sve veći broj poduzeća ogla&scaron;ava i marketira upravu djecu</span></li>
+<li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Virtualno zlostavljanje je svako namjerno, ponavljano i agresivno pona&scaron;anje pojedinca ili skupine ljudi uporabom informatičkih i/ili telekomunikacijskih sredstava, čija je namjera o&scaron;tećivanje ili zlostavljanje drugih</span></li>
+</ul>

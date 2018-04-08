@@ -50,13 +50,10 @@
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Sažetak<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#izvori">Izvori</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./prezentacija.html">Sažetak</a>
+                        <a class="nav-link" href="./index.html">Home </a>
                     </li>
                 </ul>
             </div>
@@ -65,10 +62,8 @@
         <main role="main" class="container">
 
             <div class="starter-template">
-                <h1>Bootstrap starter template</h1>
-                <p class="tekst_seminara" background="white">
+                <p class="tekst_sazetka" background="white">
                     <div class="tekst "></div>
-                    <div class="izvori_link" id="izvori"></div>
                 </p>
 
             </div>
@@ -83,18 +78,9 @@
             window.jQuery || document.write('<script src="./bootstrap/assets/js/vendor/jquery-slim.min.js"><\/script>')
         </script>
         <script>
-            $.get('./tekst.txt', {}, function(content) {
+            $.get('./sazetak.txt', {}, function(content) {
                 var lines = content.split('\n');
                 $(".tekst").html(content);
-
-
-            });
-
-            $.get('./izvori.txt', {}, function(content) {
-                var lines = content.split('\n');
-                $(".izvori").html(content);
-
-
             });
         </script>
         <script src="./bootstrap/assets/js/vendor/popper.min.js"></script>
