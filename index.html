@@ -79,7 +79,7 @@
             window.jQuery || document.write('<script src="./bootstrap/assets/js/vendor/jquery-slim.min.js"><\/script>')
         </script>
         <script>
-            $.get('./text.doc', {}, function(content) {
+            $.get('./text.docx', {}, function(content) {
                 var lines = content.split('\n');
 
                 console.log(`"file.txt" contains ${lines.length} lines`)
