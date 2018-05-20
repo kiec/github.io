@@ -17,3 +17,5 @@
 <li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Sve veći broj poduzeća ogla&scaron;ava i marketira upravu djecu</span></li>
 <li style><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Virtualno zlostavljanje je svako namjerno, ponavljano i agresivno pona&scaron;anje pojedinca ili skupine ljudi uporabom informatičkih i/ili telekomunikacijskih sredstava, čija je namjera o&scaron;tećivanje ili zlostavljanje drugih</span></li>
 </ul>
+<p style="text-align: justify;"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Link na prezentaciju:</span></p>
+<p style="text-align: justify;"><a href="https://www.slideshare.net/MirjanaSimic4/psihologija-iza-interakcije-putem-digitalnih-medija"><span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">https://www.slideshare.net/MirjanaSimic4/psihologija-iza-interakcije-putem-digitalnih-medija</span></a></p>
